@@ -175,12 +175,10 @@ public class Starship {
         this.created = created;
     }
 
-    //TODO convert to LocalDateTime
     public String getEdited() {
         return edited;
     }
 
-    //TODO convert to LocalDateTime
     public void setEdited(String edited) {
         this.edited = edited;
     }

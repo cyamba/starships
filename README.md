@@ -1,5 +1,7 @@
-# starships
+# Starships
 Toy project inspired by SWAPI using Springboot.
+https://swapi.co/
+
 # Mongodb
 Via https://www.mongodb.com/download-center/community
 or if you have mac with homebrew:
@@ -9,6 +11,7 @@ $brew install mongodb
 mkdir ~/data
 You may have to set priviledges
 $chmod 755 ~/data
+
 ## Run mongodb server
 $mongod --dbpath ~/data 
 
